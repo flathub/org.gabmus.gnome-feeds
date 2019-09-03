@@ -1,0 +1,5 @@
+{
+    "end-of-life": "Application has been renamed to org.gabmus.gfeeds",
+    "end-of-life-rebase": "org.gabmus.gfeeds",
+    "skip-appstream-check": true
+}
